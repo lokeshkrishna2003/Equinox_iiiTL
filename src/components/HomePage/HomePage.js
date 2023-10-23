@@ -114,7 +114,7 @@ const unlockTimeout = setTimeout(() => {
       // GSAP animation for the Equinox logo
       gsap.fromTo(".logo", 
           { scale: 2,borderRadius:'40%' },  
-          { duration: 2, x: '80%',y:'-10%', scale: 0.8, ease: 'power3.out' } 
+          { duration: 2, x: '68%',y:'-10%', scale: 0.8, ease: 'power3.out' } 
       );
 
       // Initialize AOS
